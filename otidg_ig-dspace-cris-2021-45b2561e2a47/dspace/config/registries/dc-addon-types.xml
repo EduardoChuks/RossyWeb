@@ -1,0 +1,28 @@
+<dspace-dc-types>
+    <dspace-header>
+        <title>Dublin Core Complement</title>
+        <contributor.author>CONCYTEC</contributor.author>
+    </dspace-header>
+    <dc-schema>
+        <name>dc</name>
+        <namespace>http://dublincore.org/documents/dcmi-terms/</namespace>
+    </dc-schema>
+    <dc-type>
+        <schema>dc</schema>
+        <element>identifier</element>
+        <qualifier>journal</qualifier>
+        <scope_note></scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>dc</schema>
+        <element>description</element>
+        <qualifier>peer-review</qualifier>
+        <scope_note></scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>dc</schema>
+        <element>subject</element>
+        <qualifier>ocde</qualifier>
+        <scope_note></scope_note>
+    </dc-type>
+</dspace-dc-types>
